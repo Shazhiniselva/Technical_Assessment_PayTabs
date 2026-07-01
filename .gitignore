@@ -1,0 +1,11 @@
+# Java build output
+backend/out/
+out/
+
+# Frontend dependencies and generated build output
+frontend/node_modules/
+frontend/dist/
+
+# Common local files
+.DS_Store
+Thumbs.db
